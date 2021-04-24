@@ -1,0 +1,26 @@
+body{
+    background-color:#eee;
+    display: flex;
+    margin: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    background-color: white;
+    height: 400px;
+    width: 650px;
+    box-shadow: 0 0 3rem rgb(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+
+main section{
+    background-color: rgb(168, 1, 1);
+    height: 210px;
+    width: 210px;
+    border-radius: 999rem;
+}

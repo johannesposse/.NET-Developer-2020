@@ -1,0 +1,23 @@
+main{
+    max-width: 600px;
+    height: 600px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    /* gap: 1rem; */
+}
+
+main aside{
+    /* width: 5rem; */
+    /* height: 5rem; */
+    background-color: red;
+}
+
+.b{
+    background-color: green;
+}
+
+.c{
+    background-color: yellow;
+}

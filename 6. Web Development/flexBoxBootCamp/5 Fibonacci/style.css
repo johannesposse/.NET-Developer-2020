@@ -1,0 +1,88 @@
+body{
+    background-color: #eee;
+}
+
+main{
+    background-color: rgb(206, 206, 206);
+    max-width: 1000px;
+    height: 400px;
+    margin: 5rem auto;
+    padding-top: 2rem;
+}
+
+main p {
+    background-color: green;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.a {
+    background-color: aqua;
+    max-width: 900px;
+    height: 100px;
+    margin: 2rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.b{
+    background-color: blue;
+    max-width: 900px;
+    height: 100px;
+    margin: 2rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.zero{
+    background-color: rgb(112, 0, 0);
+    flex: 1;
+}
+
+.one{
+    background-color: rgb(138, 0, 0);
+    flex: 1;
+}
+
+.two{
+    background-color: rgb(158, 3, 3);
+    flex: 2;
+}
+
+.three{
+    background-color: rgb(170, 110, 0);
+    flex: 3;
+}
+
+.five{
+    background-color: rgb(170, 153, 0);
+    flex: 4;
+}
+
+.eight{
+    background-color: rgb(105, 170, 0);
+    flex: 5;
+}
+
+.thirteen{
+    background-color: rgb(47, 163, 1);
+    flex: 6;
+}
+
+.twentyone{
+    background-color: rgb(60, 211, 0);
+    flex: 12;
+}
+
+.thirtyfour{
+    background-color: rgb(72, 255, 0);
+    flex: 20;
+}
+
+

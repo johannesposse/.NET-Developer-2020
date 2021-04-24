@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(161, 209, 255);
+}
+
+body main{
+    background-color: rgb(255, 255, 255);
+    max-width: 600px;
+    margin:  2rem auto;
+    padding: 1rem;
+    box-shadow: 0 0 3rem rgb(0, 0, 0, 0.3);
+    border-radius: 1rem;
+}
+
+main H1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+main form{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(98, 98, 98);
+}

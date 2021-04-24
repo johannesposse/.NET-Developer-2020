@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+main{
+    background-color: gray;
+    padding: 1rem;
+    width: 50%;
+    border: 1rem solid blue;
+    /* box-sizing: border-box; */
+}
+
+main p{
+    background-color: green;
+}

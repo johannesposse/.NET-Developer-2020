@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+main{
+    background-color: white;
+    max-width: 25rem;
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+    margin: 5rem auto;
+    justify-content: space-between;
+    box-shadow: 0 0 3rem rgb(0, 0, 0, 0.2);
+}
+
+img{
+    height: 45%;
+    width: 100%;
+    object-fit: cover;
+}
+
+article{
+    padding: 2rem 3rem 0rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.3rem;
+    
+    padding: 0rem 3rem 0rem;
+    text-align: end;
+}
+
+h2, h3 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0.2rem;
+}

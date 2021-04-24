@@ -1,0 +1,35 @@
+nav{
+    height: 3rem;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    
+}
+
+nav a {
+    display: flex;
+    text-decoration: none;
+    color: #666;
+    height: 100%;
+    width: 10rem;
+    align-items: center;
+    justify-content: center;
+    transition: all .5s ease;
+}
+
+nav a:hover{
+    background-color: #666;
+    color: white;
+}
+
+nav h1{
+    margin-right: auto;
+    padding-left: 1rem;
+    transition: all .5s ease;
+}
+
+nav h1:hover{
+    color: red;
+}

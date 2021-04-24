@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+
+main{
+    background-color: #eee;
+    margin: 15rem auto;
+    max-width: 300px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    justify-content: space-between;
+    padding: 1rem;
+    box-shadow: 0 0 3rem rgb(0, 0, 0, 0.2);    
+    border-radius: 0.5rem;
+}
+
+.aForm{
+    display: flex;
+    justify-content: flex-end;
+    border-style: none;
+}
+
+.bForm{
+    display: flex;
+    justify-content: center;
+}
+
+.aBtn{
+    padding: 0;
+    border: none;
+    background: none;
+    color: rgb(126, 126, 126);
+    font-size: 1.2rem;
+}
+
+.bBtn{
+    border-radius: 20px;
+    background-color: rgb(54, 54, 54);
+    color: white;
+    border: none;
+    width: 10rem;
+    height: 2.5rem;
+}
+
+main article img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100%;
+    display: flex;
+    margin: auto;
+    object-fit: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: rgb(126, 126, 126);
+}
+
