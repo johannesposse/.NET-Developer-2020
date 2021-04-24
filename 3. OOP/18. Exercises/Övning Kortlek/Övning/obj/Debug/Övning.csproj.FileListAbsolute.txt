@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\bin\Debug\Övning.exe.config
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\bin\Debug\Övning.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\bin\Debug\Övning.pdb
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\obj\Debug\Övning.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\obj\Debug\Övning.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\obj\Debug\Övning.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\Övriga Övningar\Övning Kortlek\Övning\obj\Debug\Övning.pdb

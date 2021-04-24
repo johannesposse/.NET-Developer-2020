@@ -1,0 +1,152 @@
+1.
+CREATE PROCEDURE spPersons_GetFullName
+AS BEGIN
+	SET NOCOUNT ON;
+	SELECT CONCAT(FirstName, ' ', LastName) AS FullName
+	FROM Persons
+END
+
+EXEC spPersons_GetFullName
+
+
+
+2.
+create procedure spPersons_GetMoreMoneyThan
+	@Balance int
+AS
+BEGIN
+	SET NOCOUNT ON;
+	SELECT *
+	FROM Persons P
+	JOIN Accounts a ON
+	p.PersonID = a.AccountID
+	Where a.Balance > @Balance
+END
+
+EXEC spPersons_GetMoreMoneyThan 100
+
+
+
+3.
+SELECT CONCAT(p.FirstName, ' ' ,p.LastName) AS FullName, a.Balance AS "Starting Balance", 
+CAST(SUM(a.Balance * 0.10 *  24/12) AS money)   AS "Interest",
+CAST(SUM(a.Balance * 0.10 *  24/12 + a.Balance) AS money)   AS "Balance + Interest"
+FROM Persons p
+JOIN Accounts a ON
+p.PersonID = a.AccountID
+GROUP BY p.FirstName, p.LastName, a.Balance
+
+
+
+4.
+CREATE PROCEDURE spPeople_InterestRade
+	@InterestRate int,
+	@Months int
+AS
+BEGIN
+	SELECT CONCAT(p.FirstName, ' ' ,p.LastName) AS FullName, a.Balance AS "Starting Balance", 
+		CAST(@Months AS int) AS "Number of Months",
+		CAST(SUM(a.Balance * (@InterestRate * 0.01) *  @Months/12) AS money)   AS "Interest",
+		CAST(SUM(a.Balance * (@InterestRate * 0.01) *  @Months/12 + a.Balance) AS money)   AS "Total Balance"
+		
+		FROM Persons p
+		JOIN Accounts a ON
+		p.PersonID = a.AccountID
+		GROUP BY p.FirstName, p.LastName, a.Balance
+END
+
+
+EXEC spPeople_InterestRade 10,48
+
+
+
+5.
+ALTER PROCEDURE spPersons_WithDraw
+@AccountID int,
+@WithDraw int
+
+AS
+BEGIN
+	UPDATE Accounts
+	SET Balance = Balance - @WithDraw
+	WHERE AccountID = @AccountID	
+
+	SELECT a.AccountID, CONCAT(p.FirstName, ' ' ,p.LastName) AS FullName,
+	CAST(SUM(a.Balance + @WithDraw) AS money)   AS "Old Balance",
+	a.Balance AS "Balance"
+	
+
+	FROM Persons p
+	JOIN Accounts a ON
+	p.PersonID = a.PersonID
+	WHERE a.AccountID = @AccountID
+	GROUP BY a.AccountID, p.FirstName, p.LastName, a.Balance
+END
+
+EXEC spPersons_WithDraw 1,100
+
+-----------------------------------------------------------------------------
+
+ALTER PROCEDURE spPersons_Deposit
+@AccountID int,
+@Deposit int
+
+AS
+BEGIN
+	UPDATE Accounts
+	SET Balance = Balance - @Deposit
+	WHERE AccountID = @AccountID
+
+
+	
+	SELECT a.AccountID, CONCAT(p.FirstName, ' ' ,p.LastName) AS FullName,
+	CAST(SUM(a.Balance - @Deposit) AS money)   AS "Old Balance",
+	a.Balance AS "Balance"
+	
+
+	FROM Persons p
+	JOIN Accounts a ON
+	p.PersonID = a.PersonID
+	WHERE a.AccountID = @AccountID
+	GROUP BY a.AccountID, p.FirstName, p.LastName, a.Balance
+END
+
+
+
+6.
+CREATE TABLE Logs
+(
+LogID int IDENTITY(1,1) PRIMARY KEY,
+AccountID int,
+OldSum money,
+NewSum money
+
+
+CONSTRAINT FK_AccountID FOREIGN KEY (AccountID) REFERENCES Accounts(AccountID)
+)
+
+
+CREATE TRIGGER trAccountUpdate ON Accounts
+FOR UPDATE
+AS
+	DECLARE @oldSum money;
+	SELECT @oldSum = Balance FROM deleted;
+
+	INSERT INTO Logs(AccountID, OldSum, NewSum)
+	SELECT AccountID, @OldSum, Balance
+	FROM inserted
+
+GO
+
+
+
+
+
+
+
+
+
+
+
+
+

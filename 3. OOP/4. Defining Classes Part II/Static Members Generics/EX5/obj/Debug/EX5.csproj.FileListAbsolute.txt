@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\bin\Debug\EX5.exe.config
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\bin\Debug\EX5.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\bin\Debug\EX5.pdb
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\obj\Debug\EX5.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\obj\Debug\EX5.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\obj\Debug\EX5.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\4. Defining Classes Part II Static Members Generics\Static Members Generics\EX5\obj\Debug\EX5.pdb

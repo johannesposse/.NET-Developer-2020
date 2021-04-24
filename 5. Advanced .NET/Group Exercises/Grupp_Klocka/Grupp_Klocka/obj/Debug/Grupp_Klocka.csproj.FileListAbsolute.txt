@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\bin\Debug\Grupp_Klocka.exe.config
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\bin\Debug\Grupp_Klocka.exe
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\bin\Debug\Grupp_Klocka.pdb
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\obj\Debug\Grupp_Klocka.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\obj\Debug\Grupp_Klocka.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\obj\Debug\Grupp_Klocka.exe
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Gruppövning\Grupp_Klocka\Grupp_Klocka\obj\Debug\Grupp_Klocka.pdb

@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\bin\Debug\EX2_.exe.config
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\bin\Debug\EX2_.exe
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\bin\Debug\EX2_.pdb
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\obj\Debug\EX2_.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\obj\Debug\EX2_.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\obj\Debug\EX2_.exe
+E:\Google Drive\SUT20\Kurs 4 - SQL\6. ADO.NET\ADO_NET\EX2_\obj\Debug\EX2_.pdb

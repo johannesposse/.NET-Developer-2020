@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\bin\Debug\Scrabble Score.exe.config
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\bin\Debug\Scrabble Score.exe
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\bin\Debug\Scrabble Score.pdb
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\obj\Debug\Scrabble Score.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\obj\Debug\Scrabble Score.exe
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\obj\Debug\Scrabble Score.pdb
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\Scrabble Score\obj\Debug\Scrabble Score.csprojAssemblyReference.cache

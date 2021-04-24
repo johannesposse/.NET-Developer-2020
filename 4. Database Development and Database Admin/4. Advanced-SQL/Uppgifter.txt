@@ -1,0 +1,126 @@
+1.
+SELECT FirstName, Salary
+FROM Employees
+WHERE Salary = (SELECT MIN(Salary) FROM Employees)
+
+2.
+SELECT FirstName, Salary
+FROM Employees
+WHERE Salary < (SELECT MIN(Salary) + MIN(Salary)*0.1 FROM Employees) 
+ORDER BY Salary
+
+3.
+SELECT CONCAT(e.FirstName, ' ', e.LastName), e.Salary, d.Name
+FROM Employees e
+JOIN Departments d ON
+e.DepartmentID = d.DepartmentID
+WHERE Salary = (Select MIN(Salary) From Employees emp
+WHERE emp.DepartmentID = d.DepartmentID)
+
+4.
+SELECT AVG(Salary) Avg FROM Employees
+WHERE DepartmentID = 1
+
+5.
+SELECT ROUND(AVG(Salary),2) AvgSales FROM Employees e
+JOIN Departments d ON
+e.DepartmentID = d.DepartmentID
+WHERE d.Name = 'Sales'
+
+6.
+SELECT COUNT(e.EmployeeID)
+FROM Employees e
+JOIN Departments d ON
+e.DepartmentID = d.DepartmentID
+WHERE d.Name = 'Sales'
+
+7.
+SELECT COUNT(e.EmployeeID)
+FROM Employees e
+JOIN Employees d ON
+e.ManagerID = d.EmployeeID
+WHERE e.ManagerID IS NOT NULL
+
+8.
+SELECT COUNT(EmployeeID)
+FROM Employees
+WHERE ManagerID IS NULL
+
+9.
+SELECT ROUND(AVG(Salary),0) AVG, d.Name FROM Employees e
+JOIN Departments d ON
+e.DepartmentID = d.DepartmentID
+GROUP BY d.Name
+ORDER BY AVG(e.salary)
+
+10.
+SELECT COUNT(e.EmployeeID), d.Name, t.Name
+FROM Employees e
+JOIN Departments d
+ON e.DepartmentID = d.DepartmentID
+JOIN Addresses a ON
+e.AddressID = a.AddressID
+JOIN Towns t ON
+a.TownID = t.TownID
+GROUP BY d.Name, t.Name
+
+11.
+SELECT m.FirstName, COUNT(e.EmployeeID) AS SumEmplyees
+FROM Employees e
+JOIN Employees m 
+ON e.ManagerID = m.EmployeeID
+GROUP BY m.FirstName
+HAVING COUNT(e.EmployeeID) = 5
+
+12.
+SELECT e.FirstName, ISNULL(m.FirstName, 'No Manager') AS ManagerName
+FROM Employees e
+LEFT OUTER JOIN Employees m
+ON e.ManagerID = m.EmployeeID
+
+13.
+SELECT FirstName, LastName
+FROM Employees
+WHERE LastName LIKE '_____';
+
+SELECT FirstName, LastName
+FROM Employees
+WHERE LEN(LastName) = 5
+
+14.
+SELECT FORMAT(GETDATE(), 'yyyy.MM.dd HH:mm:ss')
+
+15.
+CREATE TABLE Users
+(
+UserID int IDENTITY(1,1) PRIMARY KEY,
+Username varchar(20) NOT NULL UNIQUE CHECK (LEN(Username) > 4),
+Password varchar(20)  NOT NULL CHECK (LEN(Password) > 5),
+FullName varchar(50) NOT NULL CHECK (LEN(FullName) > 4),
+LastLoginTime dateTime
+)
+
+16.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

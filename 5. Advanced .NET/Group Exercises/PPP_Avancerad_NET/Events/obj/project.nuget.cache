@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5A7PUxAShNNg0lzxBeOqzp+HwtCHFwoRIzleYaAlP/G/JjNRJe1ceXovVIPZ3UvswMj+lC0qFAinPLd8T6Xskg==",
+  "success": true,
+  "projectFilePath": "E:\\Google Drive\\Programmering\\SUT20\\Kurs 5 - Avancerad .NET\\Gruppövning\\PPP_Avancerad_NET\\Events\\Events.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

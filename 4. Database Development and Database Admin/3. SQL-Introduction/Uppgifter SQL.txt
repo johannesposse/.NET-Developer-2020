@@ -1,0 +1,104 @@
+4.
+SELECT * FROM Departments;
+
+5.
+SELECT DISTINCT Name FROM Departments;
+
+6.
+SELECT DISTINCT FirstName, LastName, Salary FROM Employees;
+
+7.
+SELECT DISTINCT FirstName + ' ' + LastName AS Name FROM Employees;
+
+8.
+SELECT FirstName + ' ' + LastName AS Fullname, FirstName +'.'+LastName +'@telerik.com' AS "Full Email Adresses" FROM Employees;
+
+9.
+SELECT DISTINCT salary FROM Employees;
+
+10.
+SELECT * FROM Employees
+WHERE JobTitle = 'Sales Representative';
+
+11.
+SELECT FirstName, LastName FROM Employees
+WHERE FirstName Like 'SA%';
+
+12.
+SELECT FirstName, LastName FROM Employees
+WHERE LastName LIKE '%ei%';
+
+13.
+SELECT * FROM Employees
+WHERE Salary BETWEEN 20000 AND 30000;
+
+14.
+SELECT FirstName, Salary FROM Employees
+WHERE Salary IN (25000,14000,12500,23600);
+
+15.
+SELECT FirstName, ManagerID FROM Employees
+WHERE ManagerID IS NULL;
+
+16.
+SELECT FirstName, Salary FROM Employees
+WHERE Salary > 50000
+ORDER BY Salary Desc;
+
+17.
+SELECT TOP 5 FirstName, LastName, Salary FROM Employees
+ORDER BY Salary DESC;
+
+18.
+SELECT e.FirstName, e.LastName, e.AddressID, a.AddressID, a.AddressText AS "Street Name", a.TownID, t.TownID, t.Name AS Town FROM Employees e
+INNER JOIN Addresses a
+ON e.AddressID = a.AddressID
+INNER JOIN Towns t
+ON a.TownID = t.TownID;
+
+19.
+SELECT e.FirstName,e.AddressID, a.AddressID,a.AddressText,a.TownID,t.TownID,t.Name
+FROM Employees e, Addresses a, Towns t
+WHERE e.AddressID = a.AddressID
+AND a.TownID = t.TownID;
+
+20.
+SELECT e.FirstName, e.ManagerID, m.EmployeeID as "M Emp ID", m.FirstName AS Manager
+FROM Employees e JOIN Employees m
+ON e.ManagerID = m.EmployeeID;
+
+21.
+SELECT 
+e.FirstName AS Employee, e.AddressID, b.AddressID, b.AddressText,
+m.FirstName AS Manager, m.AddressID, a.AddressID, a.AddressText
+FROM Employees e
+JOIN Employees m
+ON e.ManagerID = m.EmployeeID
+JOIN Addresses b
+ON e.AddressID = b.AddressID
+JOIN Addresses a
+ON m.AddressID = a.AddressID;
+
+22.
+SELECT 'Department '+ Name AS LIST FROM Departments
+UNION
+SELECT 'Town: ' + Name FROM Towns;
+
+23.
+SELECT  e.FirstName AS Employee, e.ManagerID, m.FirstName AS Manager, m.EmployeeID
+FROM Employees e
+RIGHT OUTER JOIN Employees m ON
+e.ManagerID = m.EmployeeID;
+
+SELECT  e.FirstName AS Employee, e.EmployeeID, e.ManagerID, m.EmployeeID, m.FirstName AS ManagerName
+FROM Employees e
+LEFT OUTER JOIN Employees m ON
+e.ManagerID = m.EmployeeID;
+
+24.
+SELECT e.FirstName, e.HireDate, e.DepartmentID,d.DepartmentID, d.Name
+FROM Employees e
+JOIN Departments d ON
+e.DepartmentID = d.DepartmentID
+WHERE d.Name IN ('Sales','Finance')
+AND e.HireDate BETWEEN '1994-01-01 00:00:00' AND '2006-01-01 00:00:00';

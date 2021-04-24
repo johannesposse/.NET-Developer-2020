@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\Övning\Members\Program\bin\Debug\Program.exe.config
+E:\Google Drive\SUT20\Övning\Members\Program\bin\Debug\Program.exe
+E:\Google Drive\SUT20\Övning\Members\Program\bin\Debug\Program.pdb
+E:\Google Drive\SUT20\Övning\Members\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Övning\Members\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Övning\Members\Program\obj\Debug\Program.exe
+E:\Google Drive\SUT20\Övning\Members\Program\obj\Debug\Program.pdb

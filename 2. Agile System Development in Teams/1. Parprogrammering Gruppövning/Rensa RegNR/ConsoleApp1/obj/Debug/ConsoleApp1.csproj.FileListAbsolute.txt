@@ -1,0 +1,6 @@
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

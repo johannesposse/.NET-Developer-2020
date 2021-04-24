@@ -1,0 +1,16 @@
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\LinqÖvningar.exe
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\LinqÖvningar.deps.json
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\LinqÖvningar.runtimeconfig.json
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\LinqÖvningar.runtimeconfig.dev.json
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\LinqÖvningar.dll
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\ref\LinqÖvningar.dll
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\bin\Debug\net5.0\LinqÖvningar.pdb
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.AssemblyInfoInputs.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.AssemblyInfo.cs
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.dll
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\ref\LinqÖvningar.dll
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.pdb
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.genruntimeconfig.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\LINQ\LinqÖvningar\LinqÖvningar\obj\Debug\net5.0\LinqÖvningar.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6FkXeM2iP9B3X2uulV82C06UnDNeTez+Y4t01vKddOe8/8vGdD4DOQBANbVZq7I121wCyaB4vbJV5YsU8Ny6g==",
+  "success": true,
+  "projectFilePath": "E:\\Google Drive\\Programmering\\SUT20\\Kurs 5 - Avancerad .NET\\Gruppövning\\Gruppövning_PPP\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\bin\Debug\Delegates.exe.config
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\bin\Debug\Delegates.exe
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\bin\Debug\Delegates.pdb
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\obj\Debug\Delegates.exe
+E:\Google Drive\Programmering\SUT20\Kurs 5 - Avancerad .NET\Övriga övningar\Delegates\Delegates\obj\Debug\Delegates.pdb

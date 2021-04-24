@@ -1,0 +1,9 @@
+1. What is SQL? What is DML? What is DDL? Recite the most important SQL commands.
+
+-SQL (structured query language) är ett språk för att kommunicera med SQL relations databaser
+-DML (data manipulation language) är ett språk för att modifiera databaser. T.ex. SQL kommandona insert, update, delete
+-DDL (Data definition language) är SQL kommandon för att definiera en databas t.ex. create, drop, alter, rename
+
+2. What is Transact-SQL (T-SQL)?
+
+-Det är Microsofts och Sybases implementering av SQL 

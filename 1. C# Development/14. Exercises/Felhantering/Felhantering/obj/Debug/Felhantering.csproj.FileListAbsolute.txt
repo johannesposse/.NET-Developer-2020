@@ -1,0 +1,7 @@
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\bin\Debug\Felhantering.exe.config
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\bin\Debug\Felhantering.exe
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\bin\Debug\Felhantering.pdb
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\obj\Debug\Felhantering.csprojAssemblyReference.cache
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\obj\Debug\Felhantering.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\obj\Debug\Felhantering.exe
+C:\Users\Johannes\Google Drive\SUT20\Övning\Felhantering\Felhantering\obj\Debug\Felhantering.pdb

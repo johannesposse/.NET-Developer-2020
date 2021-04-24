@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LINQ_Övningar_Pontus/1.0.0": {
+        "runtime": {
+          "LINQ_Övningar_Pontus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_Övningar_Pontus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

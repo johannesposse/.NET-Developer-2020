@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BackEnd.HamsterDayCareContext">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQgAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DbCon\HamsterDayCareContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.PrintEventArgs">
+    <Position X="16.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAABABAAAAAAAAAAA=</HashCode>
+      <FileName>Events\PrintEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.Report">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAACAAgAAAAAAAAAQAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Events\Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.ReportEventArgs">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAABAAAAgAAAAAAAAAAAAAAAAAABAFAAAAAAAAAAA=</HashCode>
+      <FileName>Events\ReportEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.Ticker">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Events\Ticker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.TickEventArgs">
+    <Position X="14.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAgAAAAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Events\TickEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.Cage">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAEAAAAAAAAAAAAAAAgAAAAAAIAA=</HashCode>
+      <FileName>HamsterDayCare\Cage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.ExerciseArea">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAgAAAAAAIAA=</HashCode>
+      <FileName>HamsterDayCare\ExerciseArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.Hamster">
+    <Position X="14.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAgAAAAEIAABQAAgAAAAAIAEACABAAAAA=</HashCode>
+      <FileName>HamsterDayCare\Hamster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.HamsterDayCare" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAQAIABIAEAAAAAAgQAAAAKAABAAAAIABEAAA=</HashCode>
+      <FileName>HamsterDayCare\HamsterDayCare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.ActivityLog">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAgAAAAAQAQAAAAAEAQAAA=</HashCode>
+      <FileName>Log\ActivityLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackEnd.Extensions.LinqExtensions">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Extensions\LinqExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\bin\Debug\RensaRegNr.exe.config
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\bin\Debug\RensaRegNr.exe
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\bin\Debug\RensaRegNr.pdb
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\obj\Debug\RensaRegNr.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\obj\Debug\RensaRegNr.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\obj\Debug\RensaRegNr.exe
+E:\Google Drive\SUT20\Kurs 2 -\Par Programmering Gruppövning\Rensa RegNR\RensaRegNr\obj\Debug\RensaRegNr.pdb

@@ -1,0 +1,6 @@
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\6. Linear Data Structures\Linear Data Structures\EX3\bin\Debug\EX3.exe.config
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\6. Linear Data Structures\Linear Data Structures\EX3\bin\Debug\EX3.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\6. Linear Data Structures\Linear Data Structures\EX3\bin\Debug\EX3.pdb
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\6. Linear Data Structures\Linear Data Structures\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\6. Linear Data Structures\Linear Data Structures\EX3\obj\Debug\EX3.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\6. Linear Data Structures\Linear Data Structures\EX3\obj\Debug\EX3.pdb

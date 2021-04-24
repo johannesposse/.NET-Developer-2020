@@ -1,0 +1,14 @@
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\bin\Debug\EX1.exe.config
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\bin\Debug\EX1.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\bin\Debug\EX1.pdb
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.pdb
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\bin\Debug\EX1.exe.config
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\bin\Debug\EX1.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\bin\Debug\EX1.pdb
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.exe
+E:\Google Drive\SUT20\Kurs 3 - Objektorienterad Programmering\3. X Defining Classes Part I Constructors Properties\Defining Classes Part I Constructors Properties\EX1\obj\Debug\EX1.pdb

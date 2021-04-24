@@ -1,0 +1,3 @@
+#Simulation
+days,10
+speed,100000
