@@ -1,0 +1,26 @@
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.exe
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.deps.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.runtimeconfig.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.dll
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.csprojAssemblyReference.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.dll
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.genruntimeconfig.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.exe
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.deps.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.runtimeconfig.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.runtimeconfig.dev.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.dll
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\bin\Debug\netcoreapp3.1\EX12.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.AssemblyInfoInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.AssemblyInfo.cs
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.dll
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX12\EX12\obj\Debug\netcoreapp3.1\EX12.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX11\bin\Debug\EX11.exe.config
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX11\bin\Debug\EX11.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX11\bin\Debug\EX11.pdb
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX11\obj\Debug\EX11.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX11\obj\Debug\EX11.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX11\obj\Debug\EX11.pdb

@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\bin\Debug\EX 5.exe.config
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\bin\Debug\EX 5.exe
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\bin\Debug\EX 5.pdb
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\obj\Debug\EX 5.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\obj\Debug\EX 5.exe
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\obj\Debug\EX 5.pdb
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX 5\obj\Debug\EX 5.csprojAssemblyReference.cache

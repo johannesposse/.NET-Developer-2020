@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\bin\Debug\Strings and Text Processing.exe.config
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\bin\Debug\Strings and Text Processing.exe
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\bin\Debug\Strings and Text Processing.pdb
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\obj\Debug\Strings and Text Processing.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\obj\Debug\Strings and Text Processing.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\obj\Debug\Strings and Text Processing.exe
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\EX2\Strings and Text Processing\obj\Debug\Strings and Text Processing.pdb

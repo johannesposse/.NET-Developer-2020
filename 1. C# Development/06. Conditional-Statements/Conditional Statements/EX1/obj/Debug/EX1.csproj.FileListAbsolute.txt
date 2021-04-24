@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\bin\Debug\EX1.exe.config
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\bin\Debug\EX1.exe
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\bin\Debug\EX1.pdb
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\obj\Debug\EX1.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\obj\Debug\EX1.exe
+E:\Google Drive\Programmering\06. Conditional-Statements\Conditional Statements\EX1\obj\Debug\EX1.pdb

@@ -1,0 +1,26 @@
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.exe
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.deps.json
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.runtimeconfig.json
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.dll
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.csprojAssemblyReference.cache
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.dll
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.genruntimeconfig.cache
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.exe
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.deps.json
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.runtimeconfig.json
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.runtimeconfig.dev.json
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.dll
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\bin\Debug\netcoreapp3.1\EX 1-11.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.AssemblyInfoInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.AssemblyInfo.cs
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.dll
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\Övning 2\EX 1-11\EX 1-11\obj\Debug\netcoreapp3.1\EX 1-11.genruntimeconfig.cache

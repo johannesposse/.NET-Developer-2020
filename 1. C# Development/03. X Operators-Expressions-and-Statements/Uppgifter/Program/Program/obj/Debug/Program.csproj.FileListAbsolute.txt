@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\bin\Debug\Program.exe.config
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\bin\Debug\Program.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\bin\Debug\Program.pdb
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\obj\Debug\Program.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\Program\obj\Debug\Program.pdb

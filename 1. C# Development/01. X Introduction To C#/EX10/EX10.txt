@@ -1,0 +1,9 @@
+1. Python
+Det är enklare att lära sig python än C#, men är inte lika snabbt och kan inte göra lika mycket.
+Python är dynamiskt skrivet och "garbage collected". Båda språken är objektorienterade, men Pyhon är "statically typed" och C# är "dynamically typed"
+
+2. Java
+Java körs på Java Runtime Enviroment, C# körs på CLR. Java är classbaserat objektsorienterat. I java så är arrays direkt specialitsationer av objekt.
+
+3. Javascript
+Det är ett scriptspråk som gör hemsidor interaktiva. Det körs direkt på användarens webklient.

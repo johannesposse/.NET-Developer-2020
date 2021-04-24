@@ -1,0 +1,13 @@
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\bin\Debug\netcoreapp3.1\EX4.exe
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\bin\Debug\netcoreapp3.1\EX4.deps.json
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.json
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.dev.json
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\bin\Debug\netcoreapp3.1\EX4.dll
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\bin\Debug\netcoreapp3.1\EX4.pdb
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfoInputs.cache
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfo.cs
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.dll
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.pdb
+E:\Google Drive\Programmering\04. Loops\Loops\EX4\obj\Debug\netcoreapp3.1\EX4.genruntimeconfig.cache

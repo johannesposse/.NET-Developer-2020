@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\bin\Debug\EX13.exe.config
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\bin\Debug\EX13.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\bin\Debug\EX13.pdb
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\obj\Debug\EX13.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\obj\Debug\EX13.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\obj\Debug\EX13.pdb
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX13\obj\Debug\EX13.csprojAssemblyReference.cache

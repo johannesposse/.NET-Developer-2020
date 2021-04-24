@@ -1,0 +1,7 @@
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\bin\Debug\EX1 b.exe.config
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\bin\Debug\EX1 b.exe
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\bin\Debug\EX1 b.pdb
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\obj\Debug\EX1 b.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\obj\Debug\EX1 b.exe
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\obj\Debug\EX1 b.pdb
+C:\Users\Johannes\Google Drive\Programmering\08 Multidimensional-Arrays\EX1\EX1 b\obj\Debug\EX1 b.csprojAssemblyReference.cache

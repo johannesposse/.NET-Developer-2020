@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\bin\Debug\EX4.exe.config
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\bin\Debug\EX4.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\bin\Debug\EX4.pdb
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\obj\Debug\EX4.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\obj\Debug\EX4.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\obj\Debug\EX4.exe
+E:\Google Drive\Programmering\03 Övning v37\Uppgifter\Program\EX4\obj\Debug\EX4.pdb

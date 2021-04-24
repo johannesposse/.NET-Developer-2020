@@ -1,0 +1,7 @@
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\bin\Debug\EX9.exe.config
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\bin\Debug\EX9.exe
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\bin\Debug\EX9.pdb
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\obj\Debug\EX9.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\obj\Debug\EX9.exe
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\obj\Debug\EX9.pdb
+E:\Google Drive\Programmering\07. Arrays\Arrays\EX9\obj\Debug\EX9.csprojAssemblyReference.cache

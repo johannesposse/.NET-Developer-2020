@@ -1,0 +1,11 @@
+C# (CSharp) is the Programming Language, equivalent to Java, PHP, C, C++ etc… it gets compiled into a binary format with a compiler.
+
+Now, .NET is a platform and framework that consists of runtimes, an extensive set of libraries and utilities for building applications. 
+.NET applications can be written in a variety of languages, though it’s primary one is C#.
+
+There are 2 main .NET infrastructures
+.NET Framework - released 2001, windows only, proprietary closed source
+.NET Core (and .NET Standard) - released 2014, cross platform, open source, re-architect-ed from the ground up.
+
+
+.NET är som en väginfrastruktur för en bil medans C# är då bilen som använder sig av den infrastrukturen för att ta sig fram.

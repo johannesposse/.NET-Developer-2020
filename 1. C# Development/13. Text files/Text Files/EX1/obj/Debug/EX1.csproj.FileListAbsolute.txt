@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\bin\Debug\EX1.exe.config
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\bin\Debug\EX1.exe
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\bin\Debug\EX1.pdb
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\obj\Debug\EX1.csprojAssemblyReference.cache
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\obj\Debug\EX1.exe
+E:\Google Drive\SUT20\13. Text files\Text Files\EX1\obj\Debug\EX1.pdb

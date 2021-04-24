@@ -1,0 +1,26 @@
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.exe
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.deps.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.runtimeconfig.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.dll
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.csprojAssemblyReference.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.dll
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.genruntimeconfig.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.exe
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.deps.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.runtimeconfig.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.runtimeconfig.dev.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.dll
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\bin\Debug\netcoreapp3.1\EX9.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.csprojAssemblyReference.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.AssemblyInfoInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.AssemblyInfo.cs
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.dll
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX9\EX9\obj\Debug\netcoreapp3.1\EX9.genruntimeconfig.cache

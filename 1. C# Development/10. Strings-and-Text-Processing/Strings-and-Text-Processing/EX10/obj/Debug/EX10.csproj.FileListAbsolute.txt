@@ -1,0 +1,6 @@
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\Strings-and-Text-Processing\EX10\bin\Debug\EX10.exe.config
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\Strings-and-Text-Processing\EX10\bin\Debug\EX10.exe
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\Strings-and-Text-Processing\EX10\bin\Debug\EX10.pdb
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\Strings-and-Text-Processing\EX10\obj\Debug\EX10.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\Strings-and-Text-Processing\EX10\obj\Debug\EX10.exe
+E:\Google Drive\SUT20\10. Strings-and-Text-Processing\Strings-and-Text-Processing\EX10\obj\Debug\EX10.pdb

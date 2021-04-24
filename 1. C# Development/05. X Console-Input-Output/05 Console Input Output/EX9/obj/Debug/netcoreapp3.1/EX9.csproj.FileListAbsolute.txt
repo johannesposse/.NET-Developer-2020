@@ -1,0 +1,13 @@
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\bin\Debug\netcoreapp3.1\EX9.exe
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\bin\Debug\netcoreapp3.1\EX9.deps.json
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\bin\Debug\netcoreapp3.1\EX9.runtimeconfig.json
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\bin\Debug\netcoreapp3.1\EX9.runtimeconfig.dev.json
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\bin\Debug\netcoreapp3.1\EX9.dll
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\bin\Debug\netcoreapp3.1\EX9.pdb
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.AssemblyInfoInputs.cache
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.AssemblyInfo.cs
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.dll
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.pdb
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.genruntimeconfig.cache
+C:\Users\Johannes\Google Drive\Programmering\04 Övning v37\05 Console Input Output\EX9\obj\Debug\netcoreapp3.1\EX9.csprojAssemblyReference.cache

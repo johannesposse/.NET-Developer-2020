@@ -1,0 +1,24 @@
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.exe
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.deps.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.dll
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.dll
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.pdb
+C:\Users\Johannes\Desktop\C#\Övningar\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.genruntimeconfig.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.exe
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.deps.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.runtimeconfig.dev.json
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.dll
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\bin\Debug\netcoreapp3.1\EX4.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfoInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.AssemblyInfo.cs
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.csproj.CoreCompileInputs.cache
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.dll
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.pdb
+E:\Google Drive\Programmering\Övningsuppgifter\20200903\EX4\EX4\obj\Debug\netcoreapp3.1\EX4.genruntimeconfig.cache

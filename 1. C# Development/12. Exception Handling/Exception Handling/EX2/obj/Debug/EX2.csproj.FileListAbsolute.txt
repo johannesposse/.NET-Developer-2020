@@ -1,0 +1,7 @@
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\bin\Debug\EX2.exe.config
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\bin\Debug\EX2.exe
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\bin\Debug\EX2.pdb
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\obj\Debug\EX2.exe
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\obj\Debug\EX2.pdb
+E:\Google Drive\SUT20\12. Exception Handling\Exception Handling\EX2\obj\Debug\EX2.csprojAssemblyReference.cache
