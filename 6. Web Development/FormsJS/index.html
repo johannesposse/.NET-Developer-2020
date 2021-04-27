@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<!-- I övning 1: Formulär och Kontroll, skall ni skapa ett formulär som korrekt kan hantera och skicka över data till en annan sida.
+
+###Formuläret ska använd sig av minst:
+
+2 olika text input
+en input för epost
+1 omgång av Checkboxar/kryssrutor
+1 datum input
+Ni bör kolla så att eposten är korrekt, (hint onsubmit), samt att alla delar av formuläret är ifyllt.
+På den andra sidan(ditt ert formulär går) bör ni sen hantera datan som kommer över och skriva ut den i läsbart format i konsolen.
+
+Bonus del
+Att ni i koden bygger kontroller för om något av formuläret har inte skickats med. Ex. Vad händer om något av datan från formuläret är tomt. Så anpassa det ni skriver konsolen därefter.
+
+Lycka till -->
+<body>
+    <main>
+        <section class="ruta">
+            <form action="">
+                Förnamn<input type="text" name="Förnamn" id="">
+                Efternamn<input type="text" name="Efternamn" id="">
+                Email<input type="email" name="Email" id="">
+                <section class ="check">
+                    GDPR<input type="checkbox" name="gender" id="">
+                    Vilkor<input type="checkbox" name="gender" id="">
+                </section>
+                Födelsedatum<input type="date" name="" id="">
+                <input type="button" value="Go!" class="btn">
+            </form>
+        </section>
+    </main>
+    
+</body>
+<script src="validateForms.js"></script>
+</html>
