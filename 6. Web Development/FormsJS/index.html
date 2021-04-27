@@ -25,20 +25,22 @@ Lycka till -->
 <body>
     <main>
         <section class="ruta">
-            <form action="">
-                Förnamn<input type="text" name="Förnamn" id="">
-                Efternamn<input type="text" name="Efternamn" id="">
-                Email<input type="email" name="Email" id="">
+            <form action="secondPage.html" name="formName" onsubmit="return checkPass()">
+                Förnamn<input type="text" name="fName">
+                Efternamn<input type="text" name="lName">
+                Email<input type="text" name="email">
                 <section class ="check">
-                    GDPR<input type="checkbox" name="gender" id="">
-                    Vilkor<input type="checkbox" name="gender" id="">
+                    <input type="checkbox" name="gdpr" id="gdpr">
+                    <label for="gdpr">GDPR</label>
+                    <input type="checkbox" name="terms" id="terms">
+                    <label for="terms">Terms</label>
                 </section>
-                Födelsedatum<input type="date" name="" id="">
-                <input type="button" value="Go!" class="btn">
+                Födelsedatum<input type="date" name="birthdate">
+                <input type="submit" value="Go!" class="btn">
             </form>
         </section>
     </main>
     
 </body>
-<script src="validateForms.js"></script>
+<script src="login.js"></script>
 </html>
