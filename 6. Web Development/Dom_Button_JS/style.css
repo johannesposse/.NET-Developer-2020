@@ -1,0 +1,16 @@
+button.mainBtn{
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+
+div.mainDiv{
+    box-shadow: 0 0 2rem rgb(0, 0, 0, .2);
+    width: 150px;
+    margin: 0 auto;
+}
+
+.hide{
+    display: none;
+}
