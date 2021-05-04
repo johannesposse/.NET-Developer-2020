@@ -16,20 +16,17 @@ let images = [
     
     async function changeSlide(){
         let startSlideCookie = document.cookie.split(";",);
-        console.log(startSlideCookie);
-        let cookieSlide;
         let isCookie = false;
 
         for(let j = 0; j < startSlideCookie.length; j++){
             if(startSlideCookie[j].includes(" startSlide")){
-                cookieSlide = startSlideCookie[j].split("=");
-                console.log(cookieSlide[1]);
+                startSlideCookie = startSlideCookie[j].split("=");
             }
         }
 
         for (let i = 0; i <= images.length; i++){
             if(i >= images.length){i = 0}
-            if(!isCookie) {i = cookieSlide[1]; isCookie = true}
+            if(!isCookie) {i = startSlideCookie[1]; isCookie = true}
             document.getElementsByClassName("slide")[0].style.backgroundImage = "url(" + images[i] + ")";
             document.cookie = "startSlide = " + i;
             await sleep(time);
@@ -38,4 +35,24 @@ let images = [
     
     function setTime(){
         time = document.getElementById("speed").value;
+    }
+
+    function setText(){
+        let show = document.getElementsByClassName("showValue");
+        show[0].style.opacity ="1";
+
+        var elem = document.querySelector('input[type="range"]');
+        var rangeValue = function(){
+            var newValue = elem.value;
+            var target = document.querySelector('.value');
+            target.innerHTML = newValue /1000 + " s";
+        }
+        elem.addEventListener("input", rangeValue);
+
+    }
+
+    async function mouseLeave(){
+        await sleep(2000);
+        let show = document.getElementsByClassName("showValue");
+        show[0].style.opacity ="0";
     }
