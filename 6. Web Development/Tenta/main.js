@@ -1,4 +1,5 @@
 let search ="";
+let page = 1;
 // let perPage = "per_page=9"
 const protcol = "https://"
 const urlName = 'www.flickr.com/'
@@ -8,15 +9,14 @@ const apiKey = "api_key=8ed52e76b5c4ab1bec78c9e13fbd3f60"
 const query2 = "&sort=relevance&"
 const query3 = "&format=json&nojsoncallback=1"
 
+//&page=1
 
-const btn = document.querySelector(".btn")
+const btn = document.querySelector("#btnSearch")
 
 btn.addEventListener("click", async function(){
     let search = document.querySelector("#search").value
     let perPage = "per_page=" + document.querySelector("#perPage").value
-    document
-    console.log(perPage)
-        
+    
     if(search == "")
     {
         alert("please enter something in the searchbox")
@@ -24,9 +24,10 @@ btn.addEventListener("click", async function(){
     else
     {
         let searchPath ="&text=" + search
-        let url = `${protcol}${urlName}${path}${query}${apiKey}${searchPath}${query2}${perPage}${query3}`
+        let url = `${protcol}${urlName}${path}${query}${apiKey}${searchPath}${query2}${perPage}${query3}&page=${page}`
         const response = await fetch(url)
         const data = await response.json()
+        console.log(url)
         generateIMG(data.photos.photo);
         
     }
@@ -59,15 +60,12 @@ function generateIMG(data){
     }
     const changeImg = document.querySelectorAll(".newImg").forEach(x => {
             x.addEventListener("click", function(){
-                //k
             let top = document.querySelector(".topImg").style.backgroundImage
             let bot = x.style.backgroundImage
             console.log(bot)
             document.querySelector(".topImg").style.backgroundImage = bot
             x.style.backgroundImage = top
         })
-
-
     })
 }
 
@@ -78,3 +76,51 @@ function removePhotos(className){
     }
 }
 
+let nextBtn = document.querySelector("#next")
+let prevBtn = document.querySelector("#previous")
+
+nextBtn.addEventListener("click", async function(){
+    let search = document.querySelector("#search").value
+    let perPage = "per_page=" + document.querySelector("#perPage").value
+    
+    if(search == "")
+    {
+        alert("please enter something in the searchbox")
+    }
+    else
+    {
+        page++
+        let searchPath ="&text=" + search
+        let url = `${protcol}${urlName}${path}${query}${apiKey}${searchPath}${query2}${perPage}${query3}&page=${page}`
+        const response = await fetch(url)
+        const data = await response.json()
+        console.log(url)
+        generateIMG(data.photos.photo);
+        
+    }
+});
+
+prevBtn.addEventListener("click", async function(){
+    let search = document.querySelector("#search").value
+    let perPage = "per_page=" + document.querySelector("#perPage").value
+    
+    if(search == "")
+    {
+        alert("please enter something in the searchbox")
+    }
+    else
+    {
+        if(page == 1){
+            alert("Can't go back.. Aldready on first page")
+        }else{
+            page--
+        }
+        let searchPath ="&text=" + search
+        let url = `${protcol}${urlName}${path}${query}${apiKey}${searchPath}${query2}${perPage}${query3}&page=${page}`
+        const response = await fetch(url)
+        const data = await response.json()
+        console.log(url)
+        generateIMG(data.photos.photo);
+        
+    }
+});
