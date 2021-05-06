@@ -124,3 +124,11 @@ prevBtn.addEventListener("click", async function(){
         
     }
 });
+
+
+let range = document.querySelector("#perPage")
+range.addEventListener("input", function(){
+    document.querySelector("#rangeValue").innerText = range.value
+})
+
+document.querySelector("#rangeValue").innerText = range.value
