@@ -3,9 +3,28 @@ btn.addEventListener("click",async function(){
     const respons = await fetch("https://swapi.dev/api/people/1/")
     const data = await respons.json()
 
+    const arcivle = document.querySelector("article")
 
-    const nameP = document.querySelector(".name")
+    let str = `
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    <p>${data.name}</p>
+    `
+
     const eyeColorP = document.querySelector(".eye-color")
+    const nameP = document.querySelector(".name")
     const heightP = document.querySelector(".height")
     const massP = document.querySelector(".mass")
     const filmList = document.querySelector(".films")
