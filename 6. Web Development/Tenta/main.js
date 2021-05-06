@@ -7,9 +7,6 @@ const apiKey = "api_key=8ed52e76b5c4ab1bec78c9e13fbd3f60"
 const query2 = "&sort=relevance&per_page=9&format=json&nojsoncallback=1"
 
 
-//
-
-
 const btn = document.querySelector(".btn")
 
 btn.addEventListener("click", async function(){
@@ -33,6 +30,7 @@ btn.addEventListener("click", async function(){
 function generateIMG(data){
     
     removePhotos("newImg")
+    removePhotos("topImg")
 
     for(let i = 0; i < data.length; i++){
         const farmID = data[i].farm;
@@ -54,12 +52,22 @@ function generateIMG(data){
             addImg.append(newImg);
         }
     }
+    const changeImg = document.querySelectorAll(".newImg").forEach(x => {
+            x.addEventListener("click", function(){
+            let top = document.querySelector(".topImg").style.backgroundImage
+            let bot = x.style.backgroundImage
+            document.querySelector(".topImg").style.backgroundImage = bot
+            x.style.backgroundImage = top
+        })
+
+
+    })
 }
 
 function removePhotos(className){
     const elements = document.getElementsByClassName(className);
-    console.log(elements)
     while(elements.length > 0){
         elements[0].parentNode.removeChild(elements[0]);
     }
 }
+
