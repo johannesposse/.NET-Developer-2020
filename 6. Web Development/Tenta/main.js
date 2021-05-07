@@ -27,7 +27,7 @@ btn.addEventListener("click", async function(){
         let url = `${protcol}${urlName}${path}${query}${apiKey}${searchPath}${query2}${perPage}${query3}&page=${page}`
         const response = await fetch(url)
         const data = await response.json()
-        console.log(url)
+        console.log(data)
         generateIMG(data.photos.photo);
         
     }
