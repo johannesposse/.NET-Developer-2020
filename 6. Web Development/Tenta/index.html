@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Johannes Posse</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
 </head>
 <body>
     <main>
@@ -19,7 +21,8 @@
             </section>
         </section>
         <section class="forms">
-            <input type="range" step="1" min="9" max="17" value="9" name="foo" id="perPage">
+            <p>Per page</p>
+            <input type="range" step="1" min="21" max="51" value="21" name="foo" id="perPage">
             <p id="rangeValue"></p>
         </section>
         <section class="images">
@@ -27,6 +30,7 @@
 
         <section class="changePage">
             <button class="btn shadow" id="previous"></button>
+            <p id="pages"></p>
             <button class="btn shadow" id="next"></button>
         </section>
         

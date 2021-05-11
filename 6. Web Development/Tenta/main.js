@@ -1,6 +1,5 @@
 let search ="";
 let page = 1;
-// let perPage = "per_page=9"
 const protcol = "https://"
 const urlName = 'www.flickr.com/'
 const path = "services/"
@@ -10,6 +9,8 @@ const query2 = "&sort=relevance&"
 const query3 = "&format=json&nojsoncallback=1"
 
 //&page=1
+
+document.querySelector(".forms").style.visibility = "hidden"
 
 const btn = document.querySelector("#btnSearch")
 
@@ -28,6 +29,7 @@ btn.addEventListener("click", async function(){
         const response = await fetch(url)
         const data = await response.json()
         console.log(data)
+        document.querySelector("#pages").innerHTML = data.photos.page + " / " + data.photos.pages
         generateIMG(data.photos.photo);
         document.querySelector(".changePage").style.display = "flex"
     }
@@ -95,6 +97,7 @@ nextBtn.addEventListener("click", async function(){
         const response = await fetch(url)
         const data = await response.json()
         console.log(url)
+        document.querySelector("#pages").innerHTML = data.photos.page + " / " + data.photos.pages
         generateIMG(data.photos.photo);
         
     }
@@ -120,6 +123,7 @@ prevBtn.addEventListener("click", async function(){
         const response = await fetch(url)
         const data = await response.json()
         console.log(url)
+        document.querySelector("#pages").innerHTML = data.photos.page + " / " + data.photos.pages
         generateIMG(data.photos.photo);
         
     }
@@ -127,12 +131,15 @@ prevBtn.addEventListener("click", async function(){
 
 let filterBtn = document.querySelector("#btnFilter")
 filterBtn.addEventListener("click", function(){
-    if(document.querySelector(".forms").style.display != "flex"){
-        document.querySelector(".forms").style.display = "flex"
+    document.querySelector(".forms").style.visibility == "hidden"
+    if(document.querySelector(".forms").style.visibility == "hidden"){
+        document.querySelector(".forms").style.visibility = "visible"
+        document.querySelector(".forms").style.opacity = "1"
+        console.log("he")
     }else{
-        document.querySelector(".forms").style.display = "none"
+        document.querySelector(".forms").style.visibility = "hidden"
+        document.querySelector(".forms").style.opacity = "0"
     }
-    document.querySelector(".forms").style.height = "200px"
 })
 
 let range = document.querySelector("#perPage")
