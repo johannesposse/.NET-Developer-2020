@@ -29,7 +29,7 @@ btn.addEventListener("click", async function(){
         const data = await response.json()
         console.log(data)
         generateIMG(data.photos.photo);
-        
+        document.querySelector(".changePage").style.display = "flex"
     }
 });
 
@@ -125,6 +125,15 @@ prevBtn.addEventListener("click", async function(){
     }
 });
 
+let filterBtn = document.querySelector("#btnFilter")
+filterBtn.addEventListener("click", function(){
+    if(document.querySelector(".forms").style.display != "flex"){
+        document.querySelector(".forms").style.display = "flex"
+    }else{
+        document.querySelector(".forms").style.display = "none"
+    }
+    document.querySelector(".forms").style.height = "200px"
+})
 
 let range = document.querySelector("#perPage")
 range.addEventListener("input", function(){
