@@ -36,3 +36,7 @@ C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET
 C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
 C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\johan\source\repos\Systemutvecklare. NET\.NET-Developer-2020\7. ASP.NET\PluralSight\1. OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
