@@ -5285,11 +5285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\CutestDogService\\CutestDogService\\CutestDogService.csproj",
+      "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CutestDogService\\CutestDogService\\CutestDogService.csproj",
       "projectName": "CutestDogService",
-      "projectPath": "C:\\Users\\Johannes\\source\\repos\\CutestDogService\\CutestDogService\\CutestDogService.csproj",
+      "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CutestDogService\\CutestDogService\\CutestDogService.csproj",
       "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johannes\\source\\repos\\CutestDogService\\CutestDogService\\obj\\",
+      "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CutestDogService\\CutestDogService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",

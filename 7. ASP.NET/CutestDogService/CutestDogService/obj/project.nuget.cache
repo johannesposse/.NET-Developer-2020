@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgvSgdCIZOYaw+0X6hGrf8AFj6qsIVte0ziDit+QhlDh31x/bpyEqG9ToQrg9cL8I+Z6sxN0gt+xOA41F6Um0Q==",
+  "dgSpecHash": "I0wypgEMm7bxiAfs0cAtrnPxzPDu7+LA7emp5PkFrLaYJGNPIyuodT0Jz4WZAGvEsQWszCB4Tj1TuSsRGiEs7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johannes\\source\\repos\\CutestDogService\\CutestDogService\\CutestDogService.csproj",
+  "projectFilePath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CutestDogService\\CutestDogService\\CutestDogService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Johannes\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Johannes\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
