@@ -1,0 +1,12 @@
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\bin\Debug\net5.0\DadJokeGenerator.Data.deps.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\bin\Debug\net5.0\DadJokeGenerator.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\bin\Debug\net5.0\ref\DadJokeGenerator.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\bin\Debug\net5.0\DadJokeGenerator.Data.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\ref\DadJokeGenerator.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.Data\obj\Debug\net5.0\DadJokeGenerator.Data.pdb

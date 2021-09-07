@@ -1,0 +1,17 @@
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.App.deps.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\ref\DadJokeGenerator.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.App.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.API.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.API.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\bin\Debug\net5.0\DadJokeGenerator.Data.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.csproj.CopyComplete
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\ref\DadJokeGenerator.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\obj\Debug\net5.0\DadJokeGenerator.App.pdb

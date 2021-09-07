@@ -7,6 +7,6 @@ namespace CutestDogService.Models
 {
     public class ApiModel
     {
-        public string message { get; set; }
+        public string joke { get; set; }
     }
 }
