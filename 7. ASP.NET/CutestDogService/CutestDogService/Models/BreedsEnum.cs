@@ -11,6 +11,7 @@ namespace CutestDogService.Models
         Eskimo,
         Papillon,
         Mix,
-        Saluki
+        Saluki,
+        Afghan_Hound
     }
 }

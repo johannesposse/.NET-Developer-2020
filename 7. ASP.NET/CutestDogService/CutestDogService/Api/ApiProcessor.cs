@@ -14,7 +14,17 @@ namespace CutestDogService.Api
         {
             
             string url = ApiHelper.ApiClient.BaseAddress.ToString();
-            url = url.Replace("?", breed.ToLower());
+
+            if (breed.Contains("_"))
+            {
+                var b = breed.Split("_");
+                url = url.Replace("?", b[1].ToLower() + "/" + b[0].ToLower());
+            }
+            else
+            {
+
+                url = url.Replace("?", breed.ToLower());
+            }
 
             using (HttpResponseMessage response = await ApiHelper.ApiClient.GetAsync(url))
             {
