@@ -1,0 +1,81 @@
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\appsettings.json
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.exe
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.deps.json
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.runtimeconfig.json
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.runtimeconfig.dev.json
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\ref\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.pdb
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.Views.dll
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.Views.pdb
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorAssemblyInfo.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorAssemblyInfo.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\staticwebassets\VueJsTutorial.StaticWebAssets.Manifest.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\staticwebassets\VueJsTutorial.StaticWebAssets.xml
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\scopedcss\bundle\VueJsTutorial.styles.css
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.TagHelpers.input.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.TagHelpers.output.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorCoreGenerate.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorTargetAssemblyInfo.cs
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.Views.pdb
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\ref\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.pdb
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.genruntimeconfig.cache
+C:\Users\Johannes\source\repos\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.csproj.CopyComplete
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\appsettings.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.exe
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.deps.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.runtimeconfig.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.runtimeconfig.dev.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\ref\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.Views.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\bin\Debug\net5.0\VueJsTutorial.Views.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorAssemblyInfo.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorAssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\staticwebassets\VueJsTutorial.StaticWebAssets.Manifest.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\staticwebassets\VueJsTutorial.StaticWebAssets.xml
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\scopedcss\bundle\VueJsTutorial.styles.css
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.TagHelpers.input.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.TagHelpers.output.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorCoreGenerate.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.RazorTargetAssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.Views.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\ref\VueJsTutorial.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.genruntimeconfig.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\VueJsTutorial.csproj.CopyComplete
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\VueJsTutorial\VueJsTutorial\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs

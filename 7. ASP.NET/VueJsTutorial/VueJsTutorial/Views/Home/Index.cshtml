@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <a class="btn btn-success" v-on:click="changeMessage()">Byt meddelande</a>
+    <a class="btn btn-success" @@click="toggleMessage()">Visa meddelande</a>
+    <h1 v-if="showMessage">
+        {{message}}
+    </h1>
+    <h2 v-else>Inget att se</h2>
+    <br />
+    <br />
+    <a class="btn btn-success" @@click="count()">+</a>
+    <a class="btn btn-success" @@click="counter--">-</a>
+    <h1 v-if="counter < 10">
+        {{counter}}
+    </h1>
+    <h1 v-else class="text-success">
+        {{counter}}
+    </h1>
+    <br />
+
+    <ol>
+        <li v-on:click="deletePizza(pizza.name)" v-for="pizza in pizzaz" :key="pizza.Name">
+            {{pizza.name}} -- {{pizza.smak}}
+        </li>
+    </ol>
+</div>

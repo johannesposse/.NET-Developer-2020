@@ -9,10 +9,8 @@ namespace DadJokeGenerator.UI.Controllers
 {
     public class JokeController : Controller
     {
-
         public static string Joke { get; set; }
         JokeManager jokeManager = new JokeManager();
-
 
         public async Task<IActionResult> Index()
         {
@@ -24,18 +22,14 @@ namespace DadJokeGenerator.UI.Controllers
         {
             
             if(type == "caps")
-            {
                 Joke = jokeManager.UpperCase(Joke);
-            }else if(type == "!!!")
-            {
+            else if(type == "!!!")
                 Joke = jokeManager.ExlemationMark(Joke);
-            }else if(type == "???")
-            {
+            else if(type == "???")
                 Joke = jokeManager.QuestionMark(Joke);
-            }else if(type == "röv")
-            {
+            else if(type == "röv")
                 Joke = jokeManager.Rovarspraket(Joke);
-            }
+            
             ViewBag.Joke = Joke;
             return View();
         }
