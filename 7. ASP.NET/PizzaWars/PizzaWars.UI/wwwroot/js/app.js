@@ -36,13 +36,6 @@
                     return obj.name !== name;
                 })
             },
-
-            async  axiosTest() {
-                response = await axios.get('https://foodish-api.herokuapp.com/api/images/pizza')
-                console.log(response.data.image)
-                return response.data.image
-            }
-
         }
     }
 )
