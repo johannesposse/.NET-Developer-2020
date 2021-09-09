@@ -5315,19 +5315,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Johannes\\.nuget\\packages\\": {}
+    "C:\\Users\\johan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.App\\DadJokeGenerator.App.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.App\\DadJokeGenerator.App.csproj",
       "projectName": "DadJokeGenerator.App",
-      "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.App\\DadJokeGenerator.App.csproj",
-      "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.App\\obj\\",
+      "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.App\\DadJokeGenerator.App.csproj",
+      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5341,11 +5341,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.API\\DadJokeGenerator.API.csproj": {
-              "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.API\\DadJokeGenerator.API.csproj"
+            "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.API\\DadJokeGenerator.API.csproj": {
+              "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.API\\DadJokeGenerator.API.csproj"
             },
-            "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.Data\\DadJokeGenerator.Data.csproj": {
-              "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.Data\\DadJokeGenerator.Data.csproj"
+            "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.Data\\DadJokeGenerator.Data.csproj": {
+              "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\DadJokeGenerator\\DadJokeGenerator.Data\\DadJokeGenerator.Data.csproj"
             }
           }
         }
@@ -5374,7 +5374,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

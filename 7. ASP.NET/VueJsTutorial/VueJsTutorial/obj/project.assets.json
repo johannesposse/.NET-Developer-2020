@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Johannes\\.nuget\\packages\\": {}
+    "C:\\Users\\johan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\VueJsTutorial\\VueJsTutorial\\VueJsTutorial.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\VueJsTutorial\\VueJsTutorial\\VueJsTutorial.csproj",
       "projectName": "VueJsTutorial",
-      "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\VueJsTutorial\\VueJsTutorial\\VueJsTutorial.csproj",
-      "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\VueJsTutorial\\VueJsTutorial\\obj\\",
+      "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\VueJsTutorial\\VueJsTutorial\\VueJsTutorial.csproj",
+      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\VueJsTutorial\\VueJsTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

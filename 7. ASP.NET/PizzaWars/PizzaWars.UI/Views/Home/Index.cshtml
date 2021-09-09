@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @*<ul>
+        <li v-for="pizza in pizzaz">
+            {{pizza.name}} - {{pizza.toppings}} -- {{pizza.hypeLevel}}
+        </li>
+    </ul>*@
+
+    <div v-for="pizza in pizzaz" class="card" style="width: 18rem;">
+        <img class="card-img-top" src="..." alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">{{pizza.name}}</h5>
+            <p class="card-text">{{pizza.toppings}}<br />{{pizza.hypeLevel}}</p>
+        
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+
+</div>

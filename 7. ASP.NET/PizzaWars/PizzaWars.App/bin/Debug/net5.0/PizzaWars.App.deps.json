@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PizzaWars.App/1.0.0": {
+        "dependencies": {
+          "PizzaWars.Data": "1.0.0"
+        },
+        "runtime": {
+          "PizzaWars.App.dll": {}
+        }
+      },
+      "PizzaWars.Data/1.0.0": {
+        "runtime": {
+          "PizzaWars.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaWars.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaWars.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,24 @@
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.deps.json
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\ref\PizzaWars.Data.dll
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.AssemblyInfo.cs
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\ref\PizzaWars.Data.dll
+C:\Users\johan\source\repos\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.deps.json
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\ref\PizzaWars.Data.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.AssemblyInfo.cs
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\ref\PizzaWars.Data.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.pdb
