@@ -1,15 +1,16 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
- 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-    <div class="col" v-for="pizza in pizzaz.slice(0, 2)">
-        <div class="card mh-100">
-            <img v-bind:src="getPizzaImage()" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">{{pizza.name}}</h5>
-                <p class="card-text" v-for="topping in pizza.toppings">{{topping}}</p>
-                <a v-on:click="deletePizza(pizza.name)" class="btn btn-danger">Kassaste pizzan</a>
+<div class="container special">
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        <div class="col" v-for="pizza in pizzaz.slice(0, 2)">
+            <div class="card mh-100 mw-100">
+                <img v-bind:src="getFromApi()" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{pizza.name}}</h5>
+                    <p class="card-text" v-for="topping in pizza.toppings">{{topping}}</p>
+                    <a v-on:click="deletePizza(pizza.name)" class="btn btn-danger">Kassaste pizzan</a>
+                </div>
             </div>
         </div>
     </div>

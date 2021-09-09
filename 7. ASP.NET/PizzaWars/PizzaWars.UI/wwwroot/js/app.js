@@ -3,29 +3,29 @@
         el: '#app',
         data: {
             pizzaImg: '',
-            pizzaz: []
+            pizzaz: [],
+            response: ''
         },
         mounted() {
             this.getPizzaz()
-            
         },
         methods: {
 
             getPizzaz() {
                 axios.get('/Home/Pizzas').then(res => {
-                    this.pizzaz = res.data
-                    console.log(res.data)
+                    this.pizzaz = res.data;
                 })
                     .catch(err => console.log(err))
             },
 
-            getPizzaImage() {
+            getFromApi() {
                 axios.get('https://foodish-api.herokuapp.com/api/images/pizza').then(res =>
                 {
                     this.pizzaImg = res.data;
-                    //console.log(res.data)
-                    //console.log(this.pizzaImg.image)   
-                   
+                    console.log(this.pizzaImg.image)
+                    //let img = res.data.image
+                    //console.log(img)
+                    //return this.img
                 })
                     .catch(err => console.log(err))
                 return this.pizzaImg.image
@@ -36,6 +36,13 @@
                     return obj.name !== name;
                 })
             },
+
+            async  axiosTest() {
+                response = await axios.get('https://foodish-api.herokuapp.com/api/images/pizza')
+                console.log(response.data.image)
+                return response.data.image
+            }
+
         }
     }
 )
