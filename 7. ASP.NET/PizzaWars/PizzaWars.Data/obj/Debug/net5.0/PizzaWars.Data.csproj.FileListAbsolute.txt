@@ -22,3 +22,15 @@ C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.dll
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\ref\PizzaWars.Data.dll
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.deps.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\ref\PizzaWars.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\bin\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\ref\PizzaWars.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.Data\obj\Debug\net5.0\PizzaWars.Data.pdb

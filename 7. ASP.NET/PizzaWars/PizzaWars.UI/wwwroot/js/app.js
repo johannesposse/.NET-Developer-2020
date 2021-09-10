@@ -8,6 +8,7 @@
         },
         mounted() {
             this.getPizzaz()
+            this.getFromApi()
         },
         methods: {
 
@@ -28,7 +29,7 @@
                     //return this.img
                 })
                     .catch(err => console.log(err))
-                return this.pizzaImg.image
+               /* return this.pizzaImg.image*/
             },
 
             deletePizza(name) {

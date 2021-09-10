@@ -28,3 +28,18 @@ C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.dll
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\ref\PizzaWars.App.dll
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.App.deps.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\ref\PizzaWars.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.App.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.csproj.CopyComplete
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\ref\PizzaWars.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.pdb

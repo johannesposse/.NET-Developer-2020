@@ -86,3 +86,47 @@ C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\ref\PizzaWars.UI.dll
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.pdb
 C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.genruntimeconfig.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\appsettings.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.exe
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.deps.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.runtimeconfig.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.runtimeconfig.dev.json
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\ref\PizzaWars.UI.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.Views.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.UI.Views.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.App.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.Data.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.App.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.Data.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.RazorAssemblyInfo.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.RazorAssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\staticwebassets\PizzaWars.UI.StaticWebAssets.Manifest.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\staticwebassets\PizzaWars.UI.StaticWebAssets.xml
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\scopedcss\bundle\PizzaWars.UI.styles.css
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.TagHelpers.input.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.TagHelpers.output.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.RazorCoreGenerate.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.Views.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.csproj.CopyComplete
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\ref\PizzaWars.UI.dll
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.pdb
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.genruntimeconfig.cache
