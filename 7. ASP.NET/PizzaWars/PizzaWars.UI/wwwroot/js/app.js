@@ -4,7 +4,8 @@
         data: {
             pizzaImg: '',
             pizzaz: [],
-            response: ''
+            response: '',
+            image: ''
         },
         mounted() {
             this.getPizzaz()
@@ -21,21 +22,34 @@
             
 
             getFromApi() {
-                let test = [];
-                axios.get('https://foodish-api.herokuapp.com/api/images/pizza').then(res =>
-                {
-                    test.push(res.data)
-                    console.log(test[0].image)
-                    /*console.log(test)*/
-                    /*this.pizzaImg = res.data;*/
-                }).catch(err => console.log(err))
+                //let test = [];
+                //let a = axios.get('https://foodish-api.herokuapp.com/api/images/pizza').then(res =>
+                //{
+                //    test.push(res.data)
+                //    this.image = test[0].image
+                
+                //    /*this.pizzaImg = res.data;*/
+                //}).catch(err => console.log(err))
 
-                    return test.image
-                //let test2 = test.image
-                //console.log(test2)
-                console.log(test)
-               /* return test[test.length -1]*/
+                // create a promise for the axios request
+                const promise = axios.get('https://foodish-api.herokuapp.com/api/images/pizza')
 
+                // using .then, create a new promise which extracts the data
+                const dataPromise = promise.then((response) => response.data)
+
+
+                return dataPromise
+                console.log(dataPromise)
+
+
+            },
+
+            getImg() {
+                this.getFromApi()
+                    .then(data => {
+                        response.json({ message: 'Request received!', data })
+                    })
+                    .catch(err => console.log(err))
             },
 
             deletePizza(name) {
