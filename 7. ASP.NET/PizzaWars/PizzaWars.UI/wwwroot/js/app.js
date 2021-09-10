@@ -8,7 +8,6 @@
         },
         mounted() {
             this.getPizzaz()
-            this.getFromApi()
         },
         methods: {
 
@@ -19,17 +18,24 @@
                     .catch(err => console.log(err))
             },
 
+            
+
             getFromApi() {
+                let test = [];
                 axios.get('https://foodish-api.herokuapp.com/api/images/pizza').then(res =>
                 {
-                    this.pizzaImg = res.data;
-                    console.log(this.pizzaImg.image)
-                    //let img = res.data.image
-                    //console.log(img)
-                    //return this.img
-                })
-                    .catch(err => console.log(err))
-               /* return this.pizzaImg.image*/
+                    test.push(res.data)
+                    console.log(test[0].image)
+                    /*console.log(test)*/
+                    /*this.pizzaImg = res.data;*/
+                }).catch(err => console.log(err))
+
+                    return test.image
+                //let test2 = test.image
+                //console.log(test2)
+                console.log(test)
+               /* return test[test.length -1]*/
+
             },
 
             deletePizza(name) {
