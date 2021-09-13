@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PizzaWars.API\PizzaWars.API.csproj" />
     <ProjectReference Include="..\PizzaWars.Data\PizzaWars.Data.csproj" />
   </ItemGroup>
 

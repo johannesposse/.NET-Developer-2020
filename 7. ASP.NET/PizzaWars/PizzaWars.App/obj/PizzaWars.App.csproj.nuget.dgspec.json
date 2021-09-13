@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj": {}
+    "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj": {
+    "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.API\\PizzaWars.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj",
-        "projectName": "PizzaWars.App",
-        "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj",
-        "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\obj\\",
+        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.API\\PizzaWars.API.csproj",
+        "projectName": "PizzaWars.API",
+        "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.API\\PizzaWars.API.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,75 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
-                "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj"
+              "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
+                "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj",
+        "projectName": "PizzaWars.App",
+        "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\PizzaWars.App.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.API\\PizzaWars.API.csproj": {
+                "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.API\\PizzaWars.API.csproj"
+              },
+              "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
+                "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj"
               }
             }
           }
@@ -58,21 +125,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
+    "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
         "projectName": "PizzaWars.Data",
-        "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
-        "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\obj\\",
+        "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,7 +179,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

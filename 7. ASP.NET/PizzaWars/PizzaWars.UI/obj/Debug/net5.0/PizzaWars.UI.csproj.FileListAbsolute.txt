@@ -130,3 +130,8 @@ C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWar
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\ref\PizzaWars.UI.dll
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.pdb
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.UI\obj\Debug\net5.0\PizzaWars.UI.genruntimeconfig.cache
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.API.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.UI\bin\Debug\net5.0\PizzaWars.API.pdb

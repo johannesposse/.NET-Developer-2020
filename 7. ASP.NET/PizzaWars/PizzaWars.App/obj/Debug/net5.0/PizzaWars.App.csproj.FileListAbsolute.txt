@@ -43,3 +43,5 @@ C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWar
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.dll
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\ref\PizzaWars.App.dll
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\PizzaWars\PizzaWars.App\obj\Debug\net5.0\PizzaWars.App.pdb
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.API.dll
+C:\Users\johan\source\repos\Systemutvecklare .NET\7. ASP.NET\PizzaWars\PizzaWars.App\bin\Debug\net5.0\PizzaWars.API.pdb

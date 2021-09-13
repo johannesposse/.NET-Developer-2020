@@ -26,7 +26,7 @@ namespace PizzaWars.UI.Controllers
         }
 
         [HttpGet]
-        public List<Pizza> Pizzas()
+        public List<PizzaModel> Pizzas()
         {
             var pizzaz = new PizzaManager().Init();
             return pizzaz;

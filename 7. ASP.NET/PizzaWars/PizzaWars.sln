@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWars.UI", "PizzaWars.UI\PizzaWars.UI.csproj", "{59997426-1847-43EA-8289-7A49838CE15C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaWars.UI", "PizzaWars.UI\PizzaWars.UI.csproj", "{59997426-1847-43EA-8289-7A49838CE15C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWars.Data", "PizzaWars.Data\PizzaWars.Data.csproj", "{3EBB96BB-D779-4BB0-884F-189FE3A0A9CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaWars.Data", "PizzaWars.Data\PizzaWars.Data.csproj", "{3EBB96BB-D779-4BB0-884F-189FE3A0A9CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWars.App", "PizzaWars.App\PizzaWars.App.csproj", "{965DDCAF-BDE6-4F4F-805A-9938DDF4ABE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaWars.App", "PizzaWars.App\PizzaWars.App.csproj", "{965DDCAF-BDE6-4F4F-805A-9938DDF4ABE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWars.API", "PizzaWars.API\PizzaWars.API.csproj", "{F631C76B-2EB8-4181-A6F5-C0ADF7211DFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{965DDCAF-BDE6-4F4F-805A-9938DDF4ABE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{965DDCAF-BDE6-4F4F-805A-9938DDF4ABE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{965DDCAF-BDE6-4F4F-805A-9938DDF4ABE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F631C76B-2EB8-4181-A6F5-C0ADF7211DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F631C76B-2EB8-4181-A6F5-C0ADF7211DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F631C76B-2EB8-4181-A6F5-C0ADF7211DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F631C76B-2EB8-4181-A6F5-C0ADF7211DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

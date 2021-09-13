@@ -1,4 +1,5 @@
-﻿using PizzaWars.Data;
+﻿using PizzaWars.API;
+using PizzaWars.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,14 +11,28 @@ namespace PizzaWars.App
     public class PizzaManager
     {
 
-        public List<Pizza> Init()
+        public PizzaManager()
         {
-            List<Pizza> pizzaz = new List<Pizza>()
+            ApiHelper.Init();
+        }
+
+
+        private async Task<PizzaModel> LoadImage()
+        {
+            var pizza = await ApiProcessor.Load();
+            return pizza;
+        }
+
+        public List<PizzaModel> Init()
+        {
+
+
+            List<PizzaModel> pizzaz = new List<PizzaModel>()
             {
-                new Pizza{Id = 1, Name="Hawaii", Toppings = new List<string> { "Ham","PineApple"}, HypeLevel = 10 },
-                new Pizza{Id = 2, Name="Kebab", Toppings = new List<string> { "Kebabkött","Sås"}, HypeLevel = 9 },
-                new Pizza{Id = 3, Name="Afrikana", Toppings = new List<string> { "Kykling","Annanas","Jordnötter", "Curry", "Banan"}, HypeLevel = 7 },
-                new Pizza{Id = 4, Name="Vesuvio", Toppings = new List<string> { "Ost"}, HypeLevel = 1 },
+                new PizzaModel{Id = 1, Name="Hawaii", Toppings = new List<string> { "Ham","PineApple"}, HypeLevel = 10, Image = LoadImage().Result.Image },
+                new PizzaModel{Id = 2, Name="Kebab", Toppings = new List<string> { "Kebabkött","Sås"}, HypeLevel = 9, Image = LoadImage().Result.Image },
+                new PizzaModel{Id = 3, Name="Afrikana", Toppings = new List<string> { "Kykling","Annanas","Jordnötter", "Curry", "Banan"}, HypeLevel = 7, Image = LoadImage().Result.Image },
+                new PizzaModel{Id = 4, Name="Vesuvio", Toppings = new List<string> { "Ost"}, HypeLevel = 1, Image = LoadImage().Result.Image },
             };
 
             return pizzaz;
