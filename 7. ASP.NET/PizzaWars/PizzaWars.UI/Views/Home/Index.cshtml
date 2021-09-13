@@ -1,19 +1,20 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<div class="container special">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col" v-for="pizza in pizzaz.slice(0, 2)">
-            <div class="card mh-100 mw-50 col-4">
-                <img :src="pizza.image" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">{{pizza.name}}</h5>
-                    <p class="card-text" v-for="topping in pizza.toppings">{{topping}}</p>
-                    <a v-on:click="deletePizza(pizza.name)" class="btn btn-danger">Kassaste pizzan</a>
-                </div>
-            </div>
+
+
+<div class="card-deck mt-5">
+    <div class="card" v-for="pizza in pizzaz.slice(0, 2)">
+        <img class="card-img-top" :src="pizza.image" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">{{pizza.name}}</h5>
+            <p class="card-text">Toppings</p>
+            <p class="card-text" v-for="topping in pizza.toppings"><small class="text-muted">{{topping}}</small></p>
         </div>
+            <a v-on:click="deletePizza(pizza.name)" class="btn btn-danger">Kassaste pizzan</a>
     </div>
+    
+   
 </div>
 
 
