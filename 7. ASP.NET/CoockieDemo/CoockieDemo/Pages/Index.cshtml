@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cookies</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<form method="post">
+    <button class="btn btn-success" asp-page-handler="Create">Create Cookie :D</button>
+</form>
+
+<form method="post">
+    <button class="btn btn-info" asp-page-handler="Read">Read Cookie :D</button>
+</form>
+
+<form method="post">
+    <button class="btn btn-danger" asp-page-handler="Delete">Delete Cookie :((</button>
+</form>
+
+<h1>Theme is @Model.Theme</h1>
+
+<form method="post">
+    <label for="key">Key</label>
+    <input type="text" name="key">
+
+    <label for="value">Value</label>
+    <input type="text" id="value" name="value"/>
+
+    <button asp-page-handler="Test"></button>
+</form>
+
+@foreach(var c in Model.CookieList)
+            {
+                <p>@c</p>
+            }

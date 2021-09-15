@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DadJokeGenerator.App
-build_property.ProjectDir = C:\Users\Johannes\Source\Repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\
+build_property.ProjectDir = C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\DadJokeGenerator\DadJokeGenerator.App\

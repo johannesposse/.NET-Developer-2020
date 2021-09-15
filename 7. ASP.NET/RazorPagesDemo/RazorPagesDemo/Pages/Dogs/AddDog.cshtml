@@ -1,0 +1,13 @@
+﻿@page
+@model RazorPagesDemo.Pages.Dogs.AddDogModel
+@{
+}
+
+
+<form method="post">
+    <label for="name">Name:</label>
+    <input asp-for="@Model.Dog.Name" type="text" id="name" value="@Model.Dog.Name"  />
+    <label for="Cuteness">Cuteness:</label>
+    <input asp-for="@Model.Dog.Cuteness" type="number" id="Cuteness"/>
+    <button class="btn btn-primary" type="submit">Add Dög</button>
+</form>

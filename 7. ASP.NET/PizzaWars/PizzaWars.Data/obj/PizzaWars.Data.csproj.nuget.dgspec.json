@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {}
+    "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
+    "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
         "projectName": "PizzaWars.Data",
-        "projectPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
-        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johan\\source\\repos\\Systemutvecklare .NET\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\obj\\",
+        "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\PizzaWars.Data.csproj",
+        "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\PizzaWars\\PizzaWars.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
