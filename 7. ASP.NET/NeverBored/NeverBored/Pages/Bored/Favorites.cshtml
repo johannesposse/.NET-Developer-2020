@@ -1,0 +1,11 @@
+﻿@page
+@model NeverBored.Pages.Bored.FavoritesModel
+@{
+}
+
+<div class="text-center">
+    @foreach(var bored in NeverBored.Pages.Bored.IndexModel.Boreds)
+            {
+                <p>@bored.Activity</p>
+            }
+</div>

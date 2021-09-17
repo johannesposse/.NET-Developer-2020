@@ -13,10 +13,10 @@ namespace NeverBored.Pages.Bored
 {
     public class IndexModel : PageModel
     {
-        public ApiModel Bored { get; set; }
+        public static ApiModel Bored { get; set; }
         [BindProperty]
         public bool isFavorite { get; set; }
-        public List<ApiModel> Boreds { get; set; } = new List<ApiModel>();
+        public static List<ApiModel> Boreds { get; set; } = new List<ApiModel>();
         public async Task OnGet()
         {
             Bored = await ApiProcessor.Load();
