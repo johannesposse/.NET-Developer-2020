@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\CoockieDemo\\CoockieDemo\\CoockieDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CoockieDemo\\CoockieDemo\\CoockieDemo.csproj",
       "projectName": "CoockieDemo",
-      "projectPath": "C:\\Users\\Johannes\\source\\repos\\CoockieDemo\\CoockieDemo\\CoockieDemo.csproj",
+      "projectPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CoockieDemo\\CoockieDemo\\CoockieDemo.csproj",
       "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johannes\\source\\repos\\CoockieDemo\\CoockieDemo\\obj\\",
+      "outputPath": "C:\\Users\\Johannes\\source\\repos\\.NET-Developer-2020\\7. ASP.NET\\CoockieDemo\\CoockieDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
