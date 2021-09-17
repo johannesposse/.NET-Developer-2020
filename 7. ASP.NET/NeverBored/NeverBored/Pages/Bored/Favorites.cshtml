@@ -7,9 +7,9 @@
     <form method="post">
         @foreach (var bored in NeverBored.Pages.Bored.IndexModel.Boreds)
         {
-            <p>@bored.Activity</p>
+            <p style="display:inline" class="mr-4">@bored.Activity</p>
             <button class="btn btn-danger" asp-page-handler="Delete" asp-route-key="@bored.Key">Delete</button>
-            @*<a class="btn btn-danger" asp-route-bored="@bored" asp-page="/hero/removehero">Delete</a>*@
+            <br />
         }
     </form>
 
