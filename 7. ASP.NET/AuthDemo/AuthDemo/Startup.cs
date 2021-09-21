@@ -26,10 +26,18 @@ namespace AuthDemo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
+            //Gör att admin foldern enbart inloggade har åtkomst till
+            services.AddRazorPages(options => options.Conventions.AuthorizeFolder("/Admin"));
 
             services.AddDbContext<AuthDbCon>(options => options.UseSqlServer(Configuration.GetConnectionString("AuthDbConnection")));
-            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AuthDbCon>();
+            services.AddIdentity<IdentityUser, IdentityRole>(options => 
+            {
+                options.Password.RequireDigit = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
+            }).AddEntityFrameworkStores<AuthDbCon>();
+
+            services.ConfigureApplicationCookie(options => options.LoginPath = "/Login");
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,7 +56,7 @@ namespace AuthDemo
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+             
             app.UseRouting();
 
             app.UseAuthentication();
