@@ -154,3 +154,4 @@ C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\AuthDemo\AuthDemo\
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\AuthDemo\AuthDemo\obj\Debug\net5.0\AuthDemo.pdb
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\AuthDemo\AuthDemo\obj\Debug\net5.0\AuthDemo.genruntimeconfig.cache
 C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\AuthDemo\AuthDemo\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\Johannes\source\repos\.NET-Developer-2020\7. ASP.NET\AuthDemo\AuthDemo\obj\Debug\net5.0\Razor\Pages\Admin\Account.cshtml.g.cs
