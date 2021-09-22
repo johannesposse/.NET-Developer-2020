@@ -16,6 +16,7 @@ namespace ImageUploadDemo.Pages
     {
         private readonly IWebHostEnvironment webHostEnv;
 
+        [BindProperty]
         public DogModel Dog { get; set; }
         [BindProperty]
         public IFormFile Photo { get; set; }
@@ -36,7 +37,26 @@ namespace ImageUploadDemo.Pages
             {
                 var folder = Path.Combine(webHostEnv.WebRootPath, "images");
 
+                if (!Directory.Exists(folder))
+                    Directory.CreateDirectory(folder);
 
+                var file = Path.Combine(folder, Dog.PhotoPath);
+
+                if (System.IO.File.Exists(file))
+                    System.IO.File.Delete(file);
+
+                var uniqueFileName = String.Concat(Guid.NewGuid().ToString(), "-", Dog.Name.ToLower(), ".jpg");
+
+                var uploadFolder = Path.Combine(folder, uniqueFileName);
+
+                using (var fileStream = new FileStream(uploadFolder, FileMode.Create))
+                {
+                    Photo.CopyTo(fileStream);
+                }
+
+                DummyDogRepo.Dogs.FirstOrDefault(x => x.Id == Dog.Id).PhotoPath = uniqueFileName;
+
+                return RedirectToPage("/Edit", new { Dog.Id });
 
             }
 

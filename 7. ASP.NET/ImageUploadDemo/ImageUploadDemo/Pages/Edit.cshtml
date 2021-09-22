@@ -10,6 +10,12 @@
 <img src="/images/@Model.Dog.PhotoPath" alt="" class="img-thumbnail" style="width:100px" asp-append-version="true"/>
 
 <form method="post" enctype="multipart/form-data">
-    <input type="file" asp-for="@Model.Photo" accept=".jpg, .jpeg"/>
+
+    <input hidden asp-for="@Model.Dog.Cuteness" />
+    <input hidden asp-for="@Model.Dog.Id" />
+    <input hidden asp-for="@Model.Dog.Name" />
+    <input hidden asp-for="@Model.Dog.PhotoPath" />
+
+    <input type="file" asp-for="@Model.Photo" accept=".jpg, .jpeg" /> @*input multiple*@
     <button class="btn btn-outline-info">Save</button>
 </form>
