@@ -1,0 +1,15 @@
+﻿@page
+@model ImageUploadDemo.Pages.EditModel
+@{
+}
+
+<h1 class="mb-3">Edit</h1>
+
+<h2>@Model.Dog.Name</h2>
+<h4 class="mb-2">Cuteness: @Model.Dog.Cuteness</h4>
+<img src="/images/@Model.Dog.PhotoPath" alt="" class="img-thumbnail" style="width:100px" asp-append-version="true"/>
+
+<form method="post" enctype="multipart/form-data">
+    <input type="file" asp-for="@Model.Photo" accept=".jpg, .jpeg"/>
+    <button class="btn btn-outline-info">Save</button>
+</form>
